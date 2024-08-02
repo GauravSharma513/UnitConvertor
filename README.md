@@ -20,6 +20,13 @@ This simple Android app, built with Jetpack Compose, allows you to easily conver
 3. Select the desired output unit from the dropdown menu.
 4. The converted value will be displayed instantly.
 
+### Screenshots
+
+![Screenshot 1](path_to_image/1.jpg)
+![Screenshot 2](path_to_image/2.jpg)
+![Screenshot 3](path_to_image/3.jpg)
+![Screenshot 4](path_to_image/4.jpg)
+
 ## Built With
 
 - Jetpack Compose
@@ -35,3 +42,4 @@ This simple Android app, built with Jetpack Compose, allows you to easily conver
 ## Contributions
 
 Contributions are welcome! Feel free to submit pull requests for bug fixes, new features, or UI improvements.
+
