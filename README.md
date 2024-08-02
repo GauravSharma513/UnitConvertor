@@ -25,7 +25,7 @@ This simple Android app, built with Jetpack Compose, allows you to easily conver
 ![Screenshot 1](1.jpg)
 ![Screenshot 2](2.jpg)
 ![Screenshot 3](3.jpg)
-![Screenshot 4](path_to_image/4.jpg)
+![Screenshot 4](4.jpg)
 
 ## Built With
 
